@@ -22,7 +22,7 @@ Conducted an analysis of customer behavior, retention trends, and lifetime value
 
 **Visualization:**
 
-![1_customer_segmentation](1_customer_segmentation.png)
+![1_customer_segmentation](power_bi/1_customer_segmentation.png)
 
  **Key Findings:**
 
@@ -48,7 +48,7 @@ Conducted an analysis of customer behavior, retention trends, and lifetime value
 
 **Visualization:**
 
-![2_cohort_analysis](2_cohort_analysis.png)
+![2_cohort_analysis](power_bi/2_cohort_analysis.png)
 
  **Key Findings:**
  - Revenue per customer has been steadily declining over time
@@ -72,7 +72,7 @@ Conducted an analysis of customer behavior, retention trends, and lifetime value
 Query: [3_retention_analysis.sql](3_retention_analysis.sql)
 
 **Visualization:**
-![3_customer_churn_cohort_year](3_customer_churn_cohort_year.png)
+![3_customer_churn_cohort_year](power_bi/3_customer_churn_cohort_year.png)
 
 
  **Key Findings:**  
