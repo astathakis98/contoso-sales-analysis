@@ -1,4 +1,4 @@
-# Sales Analysis - Contoso
+# E-Commerce Customer & Sales Analysis (Contoso Dataset)
 
 ## Overview
 Conducted an analysis of customer behavior, retention trends, and lifetime value for an e-commerce business to enhance customer loyalty and increase overall revenue.
